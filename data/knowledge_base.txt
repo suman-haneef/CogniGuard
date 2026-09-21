@@ -1,0 +1,33 @@
+COGNIGUARD VERIFICATION KNOWLEDGE BASE
+
+General Misinformation Guidelines
+
+1. Extraordinary claims require strong evidence.
+Claims that promise impossible, universal, or guaranteed results should be treated cautiously and verified with reliable evidence.
+
+2. Absolute language can be a warning signal.
+Words such as "always", "never", "100%", "completely", "guaranteed", and "cures every disease" can indicate exaggerated claims. However, the presence of these words alone does not prove that a claim is false.
+
+3. Reliable verification should use credible sources.
+For scientific claims, useful sources may include peer-reviewed research, recognized scientific institutions, universities, government health agencies, and established medical organizations.
+
+4. Sources should be evaluated carefully.
+Consider the author's identity, publication date, evidence provided, supporting references, and whether independent reliable sources report the same information.
+
+5. Headlines can be misleading.
+A headline may exaggerate or simplify the information contained in the original article. The full article and original source should be checked before reaching a conclusion.
+
+6. Lack of evidence is not automatically proof of falsity.
+If a claim has no supporting evidence available, CogniGuard should recommend verification rather than automatically declaring the claim false.
+
+7. AI analysis has limitations.
+An AI model can identify language patterns, inconsistencies, and potential warning signals, but it should not be treated as a final authority on factual truth.
+
+8. Deepfake-related warning signals.
+For suspected manipulated media, users should consider unusual facial movements, inconsistent lighting, unnatural audio, lip-sync problems, visual artifacts, and the reliability of the original source. These signals alone do not conclusively prove that media is manipulated.
+
+9. Health claims require extra caution.
+Claims about medicines, treatments, diseases, or medical discoveries should be verified using authoritative medical and scientific sources.
+
+10. Political and public-interest claims require source verification.
+Claims about public officials, elections, laws, or political events should be checked against reliable primary sources and reputable reporting rather than relying on viral posts alone.
